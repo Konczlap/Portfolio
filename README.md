@@ -9,11 +9,15 @@ Zbiór projektów wykonanych w Unity 2D i 3D, rozwijanych samodzielnie ponad mat
 
 **Moje rozszerzenia:**
 - UI: pasek baterii latarki  
-- UI: pasek życia gracza  
+- UI: pasek życia gracza
+- Przejście poziomu (ucieczka samochodem)
+- Dźwięki poruszania postaci i strzelania
+- Funkcja wyłączająca bunkier gdy Gracz go nie widzi (oszczędzanie FPS)
+- Modyfikacja zoomu dla broni z animacją
 - Nowe tekstury dla pistoletu, shotguna i snajperki  
 - Poprawiona czytelność i prezentacja UI  
 
-**Repo:** https://github.com/Konczlap/ZombieRunner
+**Repo:** [https://github.com/Konczlap/ZombieRunner](https://github.com/Konczlap/Zombie-Runner)
 
 ---
 
@@ -21,7 +25,8 @@ Zbiór projektów wykonanych w Unity 2D i 3D, rozwijanych samodzielnie ponad mat
 **Opis:** Gra 2D, w której gracz wciela się w kuriera dostarczającego paczki po mieście.
 
 **Moje rozszerzenia i funkcje:**
-- Stacja paliw + system tankowania  
+- Zmodyfikowany system poruszania pojazdu
+- Stacja paliw + system tankowania
 - Pasek paliwa w UI  
 - Prędkościomierz wyświetlany w UI
 - Pojemność samochodu (ile paczek można przewozić jednocześnie)  
@@ -41,7 +46,10 @@ Zbiór projektów wykonanych w Unity 2D i 3D, rozwijanych samodzielnie ponad mat
 # 3. TileVania – Platformer 2D
 **Opis:** Klasyczna platformówka 2D, w której gracz steruje wojowniczą żabą pokonującą przeszkody i przeciwników.
 
-**Moje dodatki:**  
+**Moje dodatki:**
+- Użycie innych niż w kursie darmowych assetów
+- Stworzenie własnych poziomów
+- 
 Jeśli nie pamiętasz, możesz wpisać neutralne zdanie:  
 - Projekt rozszerzony o własne poprawki wizualne i gameplayowe (modyfikacje drobne).  
 *(Możemy później dopisać konkrety, gdy odświeżysz projekt.)*
