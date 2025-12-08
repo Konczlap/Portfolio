@@ -49,10 +49,7 @@ Zbiór projektów wykonanych w Unity 2D i 3D, rozwijanych samodzielnie ponad mat
 **Moje dodatki:**
 - Użycie innych niż w kursie darmowych assetów
 - Stworzenie własnych poziomów
-- 
-Jeśli nie pamiętasz, możesz wpisać neutralne zdanie:  
 - Projekt rozszerzony o własne poprawki wizualne i gameplayowe (modyfikacje drobne).  
-*(Możemy później dopisać konkrety, gdy odświeżysz projekt.)*
 
 **Repo:** [https://github.com/Konczlap/TileVania](https://github.com/Konczlap/TileVania)
 
