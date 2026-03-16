@@ -1,4 +1,6 @@
-#Portfolio – Unity / C# Game Projects
+#Portfolio – Unity / C# Game Projects / C# Desktop Projects
+
+# 1. Game Development
 
 Zbiór projektów wykonanych w Unity 2D i 3D, rozwijanych samodzielnie ponad materiał kursowy.
 
@@ -52,5 +54,25 @@ Zbiór projektów wykonanych w Unity 2D i 3D, rozwijanych samodzielnie ponad mat
 - Projekt rozszerzony o własne poprawki wizualne i gameplayowe (modyfikacje drobne).  
 
 **Repo:** [https://github.com/Konczlap/TileVania](https://github.com/Konczlap/TileVania)
+
+---
+
+# 2. Aplikacje / Projekty Programistyczne
+
+Zbiór aplikacji wykonanych w C#.
+
+---
+
+# 1. Biblioteczka Domowa – aplikacja desktopowa
+**Opis:** Aplikacja desktopowa umożliwiająca przeglądanie, dodawanie, edytowanie i usuwanie książek. Aplikacja napisana w C# i w technologii WPF, dane zapisywane w pliku JSON.
+
+**Funkcje:**
+- Wyszukiwanie po tytule i autorze 
+- Dynamiczna lista książek
+- Formularz dodawania i edytowania książek
+- Możliwość przeglądania i usuwania książek
+- Zapisywanie książek do pliku JSON (bazy danych)
+
+**Repo:** [https://github.com/Konczlap/Biblioteczka_Domowa](https://github.com/Konczlap/Biblioteczka_Domowa)
 
 ---
