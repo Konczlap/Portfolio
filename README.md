@@ -1,6 +1,6 @@
 #Portfolio – Unity / C# Game Projects / C# Desktop Projects
 
-# 1. Game Development
+# I. Game Development
 
 Zbiór projektów wykonanych w Unity 2D i 3D, rozwijanych samodzielnie ponad materiał kursowy.
 
@@ -57,7 +57,7 @@ Zbiór projektów wykonanych w Unity 2D i 3D, rozwijanych samodzielnie ponad mat
 
 ---
 
-# 2. Aplikacje / Projekty Programistyczne
+# II. Aplikacje / Projekty Programistyczne
 
 Zbiór aplikacji wykonanych w C#.
 
