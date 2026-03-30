@@ -1,6 +1,6 @@
-#Portfolio – Unity / C# Game Projects / C# Desktop Projects
+#Portfolio – Unity / Godot / C# Game Projects / C# Desktop Projects
 
-# I. Game Development
+# I. Game Development – Unity
 
 Zbiór projektów wykonanych w Unity 2D i 3D, rozwijanych samodzielnie ponad materiał kursowy.
 
@@ -57,7 +57,38 @@ Zbiór projektów wykonanych w Unity 2D i 3D, rozwijanych samodzielnie ponad mat
 
 ---
 
-# II. Aplikacje / Projekty Programistyczne
+# II. Game Development – Godot
+
+Projekt zespołowy wykonany w ramach zajęć na studiach w metodyce Agile.
+
+# 1. Symulator Kuriera – 2D Top-Down
+**Opis:** Gra 2D, w której gracz wciela się w kuriera rozwożącego paczki po mieście.
+
+**Mój wkład:**
+- Systemu poruszania pojazdu
+- Mechaniki podnoszenia i dostarczania paczek
+- System zarobków za dostawy
+- Systemu paliwa (zużycie, tankowanie)
+- Ograniczenie pojemności pojazdu
+- Implementacja systemu czasu i GameLoop (dzień, zakończenie dnia, podsumowanie)
+- System zapisu i wczytywania gry (autosave, reset dnia)
+- Współpraca w zespole w metodyce Agile (podział zadań, iteracje)
+
+
+**Projekt zawierał m.in.:**
+- System sklepu (kupowanie różnych pojazdów o różnych parametrach)
+- Mini mapa
+- System wskazywania paczek do zebrania
+- System wskazywania kierunku do klientów podniesionych paczek
+- System świateł samochodu
+- System pogody
+- System dźwięków w grze
+
+**Repo:** [https://github.com/Konczlap/Godot_Game](https://github.com/Konczlap/Godot_Game)
+
+---
+
+# III. Aplikacje / Projekty Programistyczne
 
 Zbiór aplikacji wykonanych w C#.
 
