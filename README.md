@@ -1,6 +1,40 @@
 #Portfolio – Unity / Godot / C# Game Projects / C# Desktop Projects
 
-# I. Game Development – Unity
+# I. Aplikacje / Projekty Programistyczne
+
+Zbiór aplikacji wykonanych w C#.
+
+---
+
+# 1. Biblioteczka Domowa – aplikacja desktopowa
+**Opis:** Aplikacja desktopowa umożliwiająca przeglądanie, dodawanie, edytowanie i usuwanie książek. Aplikacja napisana w C# i w technologii WPF, dane zapisywane w pliku JSON.
+
+**Funkcje:**
+- Wyszukiwanie po tytule i autorze 
+- Dynamiczna lista książek
+- Formularz dodawania i edytowania książek
+- Możliwość przeglądania i usuwania książek
+- Zapisywanie książek do pliku JSON (bazy danych)
+
+**Repo:** [https://github.com/Konczlap/Biblioteczka_Domowa](https://github.com/Konczlap/Biblioteczka_Domowa)
+
+---
+
+# 2. Mastermind – gra logiczna w konsoli
+**Opis:** Aplikacja konsolowa implementująca grę logiczną Mastermind. Gracz próbuje odgadnąć czteroznakowy szyfr wylosowany z puli sześciu symboli (@#$%&*) w maksymalnie 10 rundach. Po każdej próbie gracz otrzymuje informację zwrotną w postaci znaków O (symbol i pozycja poprawna) oraz N (symbol poprawny, ale w złej pozycji). Projekt zawiera również testy jednostkowe weryfikujące działanie logiki gry.
+
+**Funkcje:**
+- Losowanie szyfru na początku gry
+- Zgadywanie czteroznakowego szyfru
+- System informacji zwrotnej O/N
+- Ograniczenie liczby prób do 10
+- Testy jednostkowe logiki gry
+
+**Repo:** [https://github.com/Konczlap/Mastermind/tree/main/Testowanie_Aplikacji](https://github.com/Konczlap/Mastermind/tree/main/Testowanie_Aplikacji)
+
+---
+
+# II. Game Development – Unity
 
 Zbiór projektów wykonanych w Unity 2D i 3D, rozwijanych samodzielnie ponad materiał kursowy.
 
@@ -57,7 +91,7 @@ Zbiór projektów wykonanych w Unity 2D i 3D, rozwijanych samodzielnie ponad mat
 
 ---
 
-# II. Game Development – Godot
+# III. Game Development – Godot
 
 Projekt zespołowy wykonany w ramach zajęć na studiach w metodyce Agile.
 
@@ -85,25 +119,5 @@ Projekt zespołowy wykonany w ramach zajęć na studiach w metodyce Agile.
 - System dźwięków w grze
 
 **Repo:** [https://github.com/Konczlap/Godot_Game](https://github.com/Konczlap/Godot_Game)
-
----
-
-# III. Aplikacje / Projekty Programistyczne
-
-Zbiór aplikacji wykonanych w C#.
-
----
-
-# 1. Biblioteczka Domowa – aplikacja desktopowa
-**Opis:** Aplikacja desktopowa umożliwiająca przeglądanie, dodawanie, edytowanie i usuwanie książek. Aplikacja napisana w C# i w technologii WPF, dane zapisywane w pliku JSON.
-
-**Funkcje:**
-- Wyszukiwanie po tytule i autorze 
-- Dynamiczna lista książek
-- Formularz dodawania i edytowania książek
-- Możliwość przeglądania i usuwania książek
-- Zapisywanie książek do pliku JSON (bazy danych)
-
-**Repo:** [https://github.com/Konczlap/Biblioteczka_Domowa](https://github.com/Konczlap/Biblioteczka_Domowa)
 
 ---
